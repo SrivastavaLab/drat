@@ -1,0 +1,9 @@
+Package: bwgtools
+Version: 0.1
+Imports: rdrop2, readxl, assertthat, dplyr, magrittr, ggplot2, stringr, lazyeval, lubridate,
+          readr, tidyr
+Suggests: testthat, knitr, httpuv, zoo
+License: MIT + file LICENSE
+MD5sum: 32cd0622d7dabbeb89b9e1a5d8897698
+NeedsCompilation: yes
+
